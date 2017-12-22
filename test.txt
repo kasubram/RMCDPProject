@@ -1,3 +1,4 @@
 test1
 Fix for stylecop issues
 Fix for resource strings
+ Minor fix on resource string
