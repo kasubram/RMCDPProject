@@ -5,6 +5,9 @@ test2
 
 test3
 test4
-https://vsrm.dev.azure.com/kasubram0106/_apis/public/Release/badge/f7b21344-440b-46e9-8cf8-a737cbfe2060/2/2
+
+[![Build status](https://{your-vsts-organization}.visualstudio.com/{your-vsts-project}/_apis/build/status/{build-definition-name}?branch=master)]
+
+
 
 Updated README
