@@ -4,3 +4,4 @@ Fix for resource strings
  Minor fix on resource string
 Minor fix on stylecop issues
 Fix for artifact extension
+test
