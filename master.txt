@@ -9,3 +9,4 @@ test-3
 RMCDP-7 Fix for stylecop issues
 RMCDP-6 Fix for resource strings
 RMCDP-6 Minor fix on resource string
+RMCDP-7 minor fix for stylecop issue
