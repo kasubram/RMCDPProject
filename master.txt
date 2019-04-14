@@ -6,3 +6,4 @@ Minor fix on stylecop issues
 Fix for artifact extension
 test-2
 test-3
+RMCDP-7 Fix for stylecop issues
